@@ -5,4 +5,10 @@ Same as Little PA with few improvements
 - Added few bigger vias for better ventilation.
 - Added Bandpass filter to the TX for better RF isolation.
 - Added bridge in case if used without PA, you can jump with two 0R resistors to get signal directly from the SX1255.
+- -----------------------------------------------------
+# Work with PA:
+- R29 and R32 not soldered.
+# Work without the PA:
+- U4 and C28 not soldered, R29 and R32 soldered.
+
 # Z32IT
