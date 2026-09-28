@@ -9,7 +9,7 @@
 	(paper "A4")
 	(title_block
 		(title "HAT Little PA V2")
-		(date "2026-06-02")
+		(date "2026-09-28")
 		(rev "V2.0")
 		(company "Z32IT")
 		(comment 1 "SDR Transciever")
@@ -11369,7 +11369,7 @@
 			(uuid "819ea556-3df0-45d0-853d-f9aef6e39aa4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -11459,7 +11459,7 @@
 				(pins "2" "1" "3" "4" "6" "5")
 			)
 		)
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -2.2 2.1)
@@ -12284,7 +12284,7 @@
 			(uuid "32db73e6-68ee-4b77-9f00-d250562422dd")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_3225-4Pin_3.2x2.5mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -25925,7 +25925,7 @@
 			(uuid "6be6c071-d3ae-427f-bc28-e44e31743f71")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Vertical.wrl"
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_2x20_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)

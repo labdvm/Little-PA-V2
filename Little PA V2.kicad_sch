@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "HAT little PA V2")
-		(date "2026-06-02")
+		(date "2026-09-28")
 		(rev "V2.0")
 		(company "Z32IT")
 		(comment 1 "SDR Transcieiver ")
@@ -16652,7 +16652,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
